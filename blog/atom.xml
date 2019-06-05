@@ -1,0 +1,27 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Jason Rudolph</title>
+  <link href="http://kongpengju.com/blog/atom.xml" rel="self"/>
+  <link href="http://kongpengju.com/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://kongpengju.com/</id>
+  <author>
+    <name>Jason Rudolph</name>
+    <email>jason@kongpengju.com</email>
+  </author>
+
+  {% for post in site.posts limit:10 %}
+    <entry>
+      <title>{{ post.title }}</title>
+      <link href="http://kongpengju.com{{ post.url }}"/>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <id>http://kongpengju.com{{ post.id }}</id>
+      <content type="html">{{ post.content | xml_escape }}</content>
+    </entry>
+  {% endfor %}
+
+</feed>

@@ -1,0 +1,62 @@
+# Site title
+title: "@TTGM_FUN"
+
+# A description of your site for social meta tag and search engines
+description: "TTGM_FUN - Programmer, consultant, speaker, and author specializing in Ruby and Rails"
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "http://kongpengju.com"
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl: ""
+
+# The site cover image on the home page
+image:
+
+# The shortname for your Disqus site to enable comments
+disqus_shortname:
+
+# Your Google Analytics tracking code
+google_analytics_tracking_id: "UA-141495487-1"
+
+# Site navigation
+nav:
+  - title: "Home"
+    url:   "/"
+  - title: "Downloads"
+    url:   "/downloads"
+  - title: "About This Site"
+    url:   "/about"
+
+
+# Author information
+author:
+  name: Tian Tian
+  bio: Engineer at GitHub, runner, world traveler, and aspiring cookist
+  avatar: /images/tiantian.png
+
+# The "read next" posts to recommend at the bottom of each post
+recommended_posts:
+  - url: /blog/2018/06/18/xinput_command_help/
+  - url: /blog/2018/06/19/mplayer_play_video/
+  - url: /blog/2018/06/21/test_pkts_and_test_kbs/
+  - url: /blog/2018/06/20/buwencao_Venus_flytrap/
+  - url: /blog/2018/06/22/examination_holiday/
+  - url: /blog/2018/06/27/terminal_irc/
+
+# Extra Open Graph and Twitter Cards settings for social sharing
+
+# Fallback og:image when no page.image or site.image. Facebook requires image be
+# at least 200 x 200 pixels.
+og_image:
+
+# twitter:site. Your Twitter username without "@"
+twitter_site: TTGM_FUN
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-redirect-from
