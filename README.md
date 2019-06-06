@@ -6,6 +6,10 @@ Shout-out to [barepants/crossing-jekyll](https://github.com/barepants/crossing-j
 
 Jason Rudolph 的这个主题我很喜欢，干净简单。我只是少量修改添加了动态围棋功能和代码背景色。
 
+![Code](/images/ex01.png)
+
+![Go Game](/images/ex02.png)
+
 喜欢的同学可以clone我的代码，或访问 Jason Rudolph
 
 
