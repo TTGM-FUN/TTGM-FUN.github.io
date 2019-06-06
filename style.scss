@@ -1,6 +1,8 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+$code-backgroud-color: #29281e;
+$code-font-color:  #eee;
 
 @import "mixins";
 @import "normalize";
@@ -12,5 +14,5 @@
 @import "sticky-footer";
 @import "navigation";
 @import "posts";
-@import "highlight";
+@import "_syntax-highlighting-native";
 @import "utilities";

@@ -91,24 +91,25 @@ blockquote {
 pre,
 code {
   font-family: "DejaVu Sans Mono", Menlo, Consolas, monospace;
+  font-size: 15px;
+  border-radius: 3px;
+  background-color: $code-backgroud-color;
+  color: $code-font-color;
+
 }
 
 code {
-  color: #000;
+  padding: 1px 5px;
 }
 
 pre {
-  font-size: 14px;
-  line-height: 21px;
-  padding: 7px 20px;
-  word-break: normal;
-  word-wrap: normal;
+  padding: 8px 12px;
+  overflow: auto;
 
-  @include breakpoint {
-    font-size: 16px;
-    line-height: 25px;
-    padding-bottom: 15px;
-    padding-top: 15px;
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
   }
 }
 
