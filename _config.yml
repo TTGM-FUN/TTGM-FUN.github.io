@@ -5,7 +5,7 @@ title: "@TTGM_FUN"
 description: "TTGM_FUN - Programmer, consultant, speaker, and author specializing in Ruby and Rails"
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "http://kongpengju.com"
+url: "https://kongpengju.com"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: ""
