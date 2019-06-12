@@ -5,7 +5,7 @@ title: Downloads
 ## The Elder Scrolls VI
 上古卷轴系列，角色扮演类游戏([Visit](https://elderscrolls.bethesda.net/en))
 
-![](images/TESB_Dragon_LCARD_776x470.jpg)
+![](/downloads/images/TESB_Dragon_LCARD_776x470.jpg)
 
 ## Far Cry: New Dawn
 
