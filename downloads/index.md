@@ -2,6 +2,16 @@
 layout: page
 title: Downloads
 ---
+## The Elder Scrolls VI
+上古卷轴系列，角色扮演类游戏([Visit](https://elderscrolls.bethesda.net/en))
+
+![](images/TESB_Dragon_LCARD_776x470.jpg)
+
+## Far Cry: New Dawn
+
+冒险类竞技游戏可以组队自建基地，很刺激很好玩([Visit](https://far-cry.ubisoft.com/game/en-us/home))
+
+![](/downloads/images/fcb_bison_1080.jpg)
 
 ## Warface 
 
