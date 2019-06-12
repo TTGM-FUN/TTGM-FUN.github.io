@@ -8,6 +8,8 @@ title: Downloads
 
 一个古老的邪恶已经回到了巴尔杜尔之门，意图从里到外吞噬它。 法伦的命运掌握在你的手中。 独自一人，你可能会反抗。 但是在一起，你可以克服。([Visit](https://store.steampowered.com/app/1086940/Baldurs_Gate_III/))
 
+![](/downloads/images/header.jpg)
+
 ## The Elder Scrolls VI
 上古卷轴系列，角色扮演类游戏([Visit](https://elderscrolls.bethesda.net/en))
 
