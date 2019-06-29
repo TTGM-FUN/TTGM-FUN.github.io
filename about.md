@@ -14,8 +14,8 @@ title: About This Site
 
 如果你有好的意见或建议，或者有什么问题想交流，欢迎随时联系我！
 
-IRC频道： # Learn_Together
+IRC频道： #Learn_Together
 
 服务器：chat.freenode.net
 
-[Webchat With Me](http://webchat.freenode.net/)
+[Webchat With Me](https://webchat.freenode.net/#Learn_Together)
