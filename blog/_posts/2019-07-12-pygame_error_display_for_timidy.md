@@ -10,7 +10,7 @@ tags:
 
 ```bash
 gameOverSound = pygame.mixer.Sound('endGameover.wav')
-pygame.mixer.music.load('srartBackground.mid')
+pygame.mixer.music.load('startBackground.mid')
 ```
 问题来了，运行后却显示以下错误：
 
