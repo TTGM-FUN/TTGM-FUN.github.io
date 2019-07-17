@@ -14,15 +14,15 @@ tags:
 ```python
 def findToMore(seeItList): 
     boosNum = 0
-    litileNum = seeItList[0] 
+    littleNum = seeItList[0] 
       
     for i in seeItList: 
         freeFind = seeItList.count(i) 
         if(freeFind > boosNum): 
             boosNum = freeFind 
-            litileNum = i 
+            littleNum = i 
   
-    return litileNum
+    return littleNum
   
 seeItList = [2, 2, 1, 2, 3, 1] 
 print(findToMore(seeItList)) 
