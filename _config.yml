@@ -25,6 +25,8 @@ nav:
     url:   "/"
   - title: "Downloads"
     url:   "/downloads"
+  - title: "Learn Code"
+    url:   "/learn_code"
   - title: "About This Site"
     url:   "/about"
 
