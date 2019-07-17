@@ -14,6 +14,8 @@ title: Learn Code
 
 - 单词列表是Think Python的第1.8章术语表。如果你需要背别的单词可以自己更换。
 
+[关于LearnEnglish小程序语音库的问题](https://kongpengju.com/blog/2019/07/18/Python-learn-answers_01/)
+
 使用方式:
 
 ```python
