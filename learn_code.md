@@ -1,7 +1,7 @@
 ---
 permalink: learn_code
 layout: page
-title: Learn Code
+title: Learning Code.....
 ---
 
 # 背单词
