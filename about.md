@@ -19,3 +19,5 @@ IRC频道： #Learn_Together
 服务器：chat.freenode.net
 
 [Webchat With Me](https://webchat.freenode.net/#Learn_Together)
+
+[如果你对IRC比较陌生可以看一下这里我的IRC简单介绍。--如何使用IRC聊天](https://kongpengju.com/blog/2019/07/18/irc-chat-with-me/)
