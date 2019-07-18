@@ -12,15 +12,15 @@ IRC是一个多用户、多频道的纯文本模式互动聊天系统。完全�
 
 - 网页版IRC
 
-![https://webchat.freenode.net/#Learn_Together](/images/web_irc.png)
+[![](/images/web_irc.png)](https://webchat.freenode.net/#Learn_Together)
 
 只需点击[https://webchat.freenode.net/#Learn_Together](https://webchat.freenode.net/#Learn_Together)进入就可以了。可以不用注册只需输入Nick名就可以了，就是随便起一个用户名。没有注册的话就不用勾选I have a password 然后勾选I'm not a robot通过人机验证就可以START登录了。
 
 - Windows 10 版IRC
 
-![https://weechat.org/](/images/pc_irc.png)
+[Weechat](https://weechat.org/)
 
-
+[![](/images/pc_irc.png)](https://weechat.org/)
 
 - Linux
 
