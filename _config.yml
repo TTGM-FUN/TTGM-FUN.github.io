@@ -23,8 +23,6 @@ google_analytics_tracking_id: "UA-141495487-1"
 nav:
   - title: "Home"
     url:   "/"
-  - title: "Downloads"
-    url:   "/downloads"
   - title: "Learn Code"
     url:   "/learn_code"
   - title: "About This Site"
