@@ -2,7 +2,7 @@
 title: "How to do it ..."
 
 # A description of your site for social meta tag and search engines
-description: "这个网站是我的生活日记和学习笔记，文章记录了我在课外学习，日常学校课程里所碰到的问题和解决办法，当然也分享了生活中碰到的各种有趣的事情。"
+description: "这个Blog是我的生活日记和学习笔记，文章记录了我在课外学习，日常学校课程里所碰到的问题和解决办法，当然也分享了生活中碰到的各种有趣的事情。"
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "https://kongpengju.com"
@@ -11,7 +11,7 @@ url: "https://kongpengju.com"
 baseurl: ""
 
 # The site cover image on the home page
-image: "/images/mylogo.png"
+image: 
 
 # The shortname for your Disqus site to enable comments
 disqus_shortname:
