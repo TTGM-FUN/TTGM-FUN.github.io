@@ -1,5 +1,5 @@
 ---
-title: IndexError: list index out of range
+title: 我经常犯的错误 IndexError list index out of range
 layout: post
 tags:
 - python
