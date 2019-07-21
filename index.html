@@ -2,7 +2,11 @@
 layout: default
 redirect_from: /blog/
 ---
+
+{%if site_title%}
 <title>How to do it...</title>
+{% endif %}
+
 {% if site.image %}
   <div class="cover-image"><img src="{{ site.image }}" alt="" /></div>
 {% endif %}
