@@ -6,7 +6,7 @@ tags:
 - code
 ---
 
-learnenglsih Bug 记录:
+LearnEngish Bug 记录:
 
 我经常犯的错误，主要是太粗心。
 
