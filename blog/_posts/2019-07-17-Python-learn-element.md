@@ -12,6 +12,12 @@ tags:
 - for 循环加计数器暴力查询
 
 ```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+kongpengju.com
+"""
+
 def findToMore(seeItList): 
     boosNum = 0
     littleNum = seeItList[0] 
@@ -31,6 +37,12 @@ print(findToMore(seeItList))
 - 列表法
 
 ```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+kongpengju.com
+"""
+
 def findToMore(seeItList): 
     return max(set(seeItList), key = seeItList.count) 
 

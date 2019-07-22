@@ -41,6 +41,12 @@ tags:
 使用Python计算方法:
 
 ```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+kongpengju.com
+"""
+
 numList = []
 for i in range(80):
     if i % 7 == 0 and i % 2 == 1:
