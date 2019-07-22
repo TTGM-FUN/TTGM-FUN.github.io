@@ -4,6 +4,8 @@ layout: page
 title: Learning Code.....
 ---
 
+[用Python做一个基本的奥数题](https://kongpengju.com/blog/2019/07/22/learncodeforpython001/)
+
 [Python 查找列表元素的各种方法](https://kongpengju.com/blog/2019/07/17/Python-learn-element/)
 
 [自己动手解决的pygame error](https://kongpengju.com/blog/2019/07/12/pygame_error_display_for_timidy/)
