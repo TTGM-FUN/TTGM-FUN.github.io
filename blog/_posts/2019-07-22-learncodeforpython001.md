@@ -48,7 +48,7 @@ for i in range(80):
 
 for numListLen in range(len(numList)):
         numStrList = str(numList[numListLen])
-        if len(numStrList) > 1 and len(numStrList) % 2 == 0:
+        if len(numStrList) > 1:
             if int(numStrList[0]) - int(numStrList[1]) == 1:
                 print(numStrList)
 ```
