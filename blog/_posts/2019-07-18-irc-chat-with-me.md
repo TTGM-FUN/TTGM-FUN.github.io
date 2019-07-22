@@ -72,6 +72,41 @@ aptitude install irssi
 /join #Learn_Together
 ```
 
+在当前频道说话：
+
+```
+/say 要说的话
+```
+
+给某人发送悄悄话：
+
+```
+/msg 他的昵称 信息内容
+```
+
+查看留言列表：
+
+```
+/msg memoserv list
+```
+
+查看留言：
+
+```
+/msg memoserv read 留言号码
+```
+
+发送留言：
+
+```
+/msg memoserv send 对方妮称 留言内容
+```
+
+留言帮助：
+
+```
+/msg memoserv help
+```
 
 退出关闭聊天:
 
