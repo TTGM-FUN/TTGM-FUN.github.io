@@ -43,7 +43,7 @@ tags:
 ```python
 numList = []
 for i in range(80):
-    if i % 7 == 0:
+    if i % 7 == 0 and i % 2 == 1:
         numList.append(i)
 
 for numListLen in range(len(numList)):
