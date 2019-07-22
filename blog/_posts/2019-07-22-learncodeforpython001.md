@@ -42,11 +42,11 @@ tags:
 
 ```python
 numList = []
-for i in range(1, 80):
+for i in range(80):
     if i % 7 == 0:
         numList.append(i)
 
-for numListLen in range(0, len(numList)):
+for numListLen in range(len(numList)):
         numStrList = str(numList[numListLen])
         if len(numStrList) > 1:
             if int(numStrList[0]) - int(numStrList[1]) == 1:
