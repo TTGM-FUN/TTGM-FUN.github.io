@@ -29,12 +29,12 @@ tags:
 
 - [Math Playground](https://www.mathplayground.com/)
 
-[![](images/MathPlayground.png)](https://www.mathplayground.com/)
+[![](/images/MathPlayground.png)](https://www.mathplayground.com/)
 
 练习数学技能，玩逻辑游戏，享受乐趣。
 
 - [Hoodamath](http://www.hoodamath.com/games/allgames.html)
 
-[![](images/Hoodamath.png)](http://www.hoodamath.com/games/allgames.html)
+[![](/images/Hoodamath.png)](http://www.hoodamath.com/games/allgames.html)
 
 有不少数学游戏。
