@@ -6,7 +6,7 @@ tags:
 - matplotlib
 ---
 
-Example:
+Examples:
 
 [![](/images/group_poster.png)](/images/group_poster.png)
 
