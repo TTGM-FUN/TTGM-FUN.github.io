@@ -6,7 +6,7 @@ Shout-out to [barepants/crossing-jekyll](https://github.com/barepants/crossing-j
 
 这个主题我很喜欢，干净简单。我只是少量修改添加了动态围棋功能和代码背景色。
 
-棋盘工具下载
+棋盘工具下载:
 
 [MaxiGos](http://jeudego.org/maxiGos/)
 
