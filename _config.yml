@@ -1,8 +1,9 @@
 # Site title
-title: "@kpjmark"
+#title: "@kpjmark"
+title: "高中生活"
 
 # A description of your site for social meta tag and search engines
-description: "这个Blog是我的生活日记和学习笔记，文章记录了我在课外学习，日常学校课程里所碰到的问题和解决办法，当然也分享了生活中碰到的各种有趣的事情。"
+description: "是一个关于高中学习、生活和成长的BLOG网站，分享了作者的经历、感想和建议。这个网站适合高中生和高中老师，以及对高中教育感兴趣的人士。在这里，你可以找到有用的信息、有趣的故事和互动的社区。欢迎访问高中生活，和我们一起探索高中的精彩世界。"
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "https://kongpengju.com"
