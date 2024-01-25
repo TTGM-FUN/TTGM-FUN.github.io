@@ -17,10 +17,10 @@ title: About This Site
 
 如果你有好的意见或建议，或者有什么问题想交流，欢迎随时联系我！
 
-IRC频道： #Learn_Together
+IRC频道： #Learn-Together
 
-服务器：chat.freenode.net
+服务器：irc.libera.chat
 
-[Webchat With Me](https://webchat.freenode.net/#Learn_Together)
+[Webchat With Me](https://web.libera.chat/#Learn-Together)
 
 [如果你对IRC比较陌生可以看一下这里我的IRC简单介绍。--如何使用IRC聊天](https://kongpengju.com/blog/2019/07/18/irc-chat-with-me/)
