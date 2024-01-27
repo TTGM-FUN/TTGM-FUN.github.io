@@ -12,9 +12,9 @@ IRC是一个多用户、多频道的纯文本模式互动聊天系统。完全�
 
 - 网页版IRC
 
-[![](/images/web_irc.png)](https://web.libera.chat/#Learn-Together)
+[![](/images/web_irc.png)](https://web.libera.chat/##Learn-Together)
 
-只需点击[https://web.libera.chat/#Learn-Together](https://web.libera.chat/#Learn-Together)进入就可以了。可以不用注册只需输入Nick名就可以了，就是随便起一个用户名。没有注册的话就不用勾选I have a password 然后勾选I'm not a robot通过人机验证就可以START登录了。
+只需点击[https://web.libera.chat/##Learn-Together](https://web.libera.chat/##Learn-Together)进入就可以了。可以不用注册只需输入Nick名就可以了，就是随便起一个用户名。没有注册的话就不用勾选I have a password 然后勾选I'm not a robot通过人机验证就可以START登录了。
 
 - Windows 10 版IRC
 
